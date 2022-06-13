@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Morty Character</string>
+    <string name="name">Name</string>
+    <string name="gender">Gender</string>
+    <string name="type_of_character">Type of Character</string>
+    <string name="about">About</string>
+    <string name="location">Location</string>
+    <string name="status">Status</string>
+</resources>
